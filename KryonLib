@@ -1,7 +1,7 @@
 -- ============================================================
 -- KryonLib.lua  |  Self-contained loadstring library by Kryon
 -- Usage:
--- local KryonLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/eyeyel23/Skibididi/refs/heads/main/Kryonlib.lua"))()
+-- local KryonLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/eyeyel23/Skibiditoilet/refs/heads/main/KryonLib"))()
 -- ============================================================
 
 local KryonLib = {}
